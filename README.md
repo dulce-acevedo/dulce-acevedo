@@ -1,0 +1,6 @@
+- 👩‍💻  Hi, I’m Dulce Acevedo
+- 🚀 I’m interested in Software Development
+- ✨ I’m currently learning all about DevOps!
+- 💞️ I’m looking to collaborate any amazing idea.
+- 📫 How to reach me:
+- 🌐 linkedin: linkedin.com/in/dulce-tech/
