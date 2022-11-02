@@ -1,4 +1,4 @@
-![alt-text](https://github.com/dulce-acevedo/dulce-acevedo/blob/main/banner.gif)
+![alt-text](https://github.com/dulce-acevedo/dulce-acevedo/blob/main/banner%20(1).gif)
 # Welcome to my github
 **A little bit about me:**
 - 🚀 I’m a Devops Developer 
