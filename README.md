@@ -1,3 +1,4 @@
+![alt-text](https://github.com/dulce-acevedo/dulce-acevedo/blob/main/banner.gif)
 # 👩‍💻  Hello World! I'm Dulce
 ### 🚀 I’m interested in Software Development
 ### ✨ I’m currently learning all about Cloud Computing
