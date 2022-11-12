@@ -1,8 +1,12 @@
-![alt-text](https://github.com/dulce-acevedo/dulce-acevedo/blob/main/banner_n.gif)
+![alt-text](https://github.com/dulce-acevedo/dulce-acevedo/blob/main/banner_b.gif)
 
-## **`Software Developer/Engineer`**
+## **`🤖 Software Developer/Engineer`**
 
 I am a full-stack developer that wants to create a digital world for myself. I am currently studying a Bachelor of Computer Science and I'm passionate about creating my all projects from the ground up, including planning and designing. One of the things i love about the tech industry is its fast-paced nature. Creating projects allows me to continue growing my skills and keep learning new things.
+<p align="left">
+<a href="https://www.linkedin.com/in/dulce-tech/"><img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=person-fill&logoColor=white"/></a>
+<img alt="email" src="https://custom-icon-badges.demolab.com/badge/-dulce.develop@gmail.com-pink?style=for-the-badge&logo=mail&logoColor=black"/>
+</p>
 
 ---
 
@@ -12,6 +16,9 @@ I am a full-stack developer that wants to create a digital world for myself. I a
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -25,7 +32,7 @@ I am a full-stack developer that wants to create a digital world for myself. I a
 
 ---
 
-### Check-out
+### 🚀 Check-out
 
 
 
@@ -36,6 +43,5 @@ I am a full-stack developer that wants to create a digital world for myself. I a
 [![GitHub Streak](https://streak-stats.demolab.com?user=dulce-acevedo&theme=Javascript&date_format=M%20j%5B%2C%20Y%5D&background=DD8DC4&ring=37DDD8&fire=37DDD8&currStreakLabel=155553&currStreakNum=000000&sideLabels=155553)](https://git.io/streak-stats)
 
 ---
-### 📫 You can reach here:
-- 🌐   linkedin: [linkedin.com/in/dulce-tech/](https://www.linkedin.com/in/dulce-tech/)
-- 📧   email: dulce.develop@gmail.com
+ 📧   email: dulce.develop@gmail.com
+
