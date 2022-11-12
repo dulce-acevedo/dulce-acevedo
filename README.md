@@ -34,6 +34,8 @@ I am a full-stack developer that wants to create a digital world for myself. I a
 
 ### 🚀 Check-out
 
+<a href="https://github.com/dulce-acevedo/poker-cards-generator"><img alt="cardgenerator"  width="300px" title="cardgenerator repo" src="https://github.com/dulce-acevedo/dulce-acevedo/blob/main/CardGenerator.png"/></a>
+
 
 
 ---
