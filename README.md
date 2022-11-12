@@ -45,5 +45,9 @@ I am a full-stack developer that wants to create a digital world for myself. I a
 [![GitHub Streak](https://streak-stats.demolab.com?user=dulce-acevedo&theme=Javascript&date_format=M%20j%5B%2C%20Y%5D&background=DD8DC4&ring=37DDD8&fire=37DDD8&currStreakLabel=155553&currStreakNum=000000&sideLabels=155553)](https://git.io/streak-stats)
 
 ---
- 📧   email: dulce.develop@gmail.com
+<details>
+ <summary><h3>👨‍💻 Dulce's Journey</h3></summary>
+          Both of my parents are Computer and Software Engineers, so I have been inspired to work with Computers since I was little! I was born in Mexico and i came to Australia in my late teens. I started my career as a developer this year when i became a Junior DevOps Developer at a web app company in my area. Since then, i have been inspired to learn more to become a better developer.
+          My current goal for 2023 is to start a Full-Stack developer role in a tech company in Brisbane and eventuallt in Melbourne. Don't wait up, because I'm coming.
+
 
